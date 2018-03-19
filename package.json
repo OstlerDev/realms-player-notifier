@@ -1,0 +1,32 @@
+{
+  "name": "realms-player-notifier",
+  "version": "1.0.0",
+  "description": "Automatically get Push Notifications when players log into your Realms server!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OstlerDev/realms-player-notifier.git"
+  },
+  "keywords": [
+    "Realms",
+    "Realms",
+    "API",
+    "Minecraft",
+    "Push",
+    "Notification",
+    "Player",
+    "Login"
+  ],
+  "author": "Sky Young <contact@skylarostler.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OstlerDev/realms-player-notifier/issues"
+  },
+  "homepage": "https://github.com/OstlerDev/realms-player-notifier#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
